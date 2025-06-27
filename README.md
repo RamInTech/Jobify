@@ -14,6 +14,12 @@ Jobify is a simple job portal web application where users can **browse jobs**, *
 ✅ Delete posted jobs  
 ✅ Simple and responsive UI built with **React & Tailwind CSS**  
 ✅ Uses a **JSON server** to simulate backend API  
+---
+![image](https://github.com/user-attachments/assets/9f11aaf2-dc23-40dd-a56f-1348aafec991)
+---
+![image](https://github.com/user-attachments/assets/413d7ba9-095a-41a2-8176-a32357f882c8)
+---
+![image](https://github.com/user-attachments/assets/9f7f8017-6844-4e42-8fca-b63182adead4)
 
 ---
 

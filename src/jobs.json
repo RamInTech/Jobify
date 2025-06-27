@@ -1,0 +1,564 @@
+{
+  "jobs": [
+    {
+      "id": "0",
+      "title": "Senior Product Manager",
+      "type": "Full-Time",
+      "location": "Hyderabad, India",
+      "description": "We are looking for an experienced Senior Product Manager to lead product strategy and execution at Microsoft India. You will collaborate with engineering, design, and business teams to deliver impactful software products for millions of global users. Strong leadership, stakeholder management, and technical understanding are essential.",
+      "salary": "55 LPA - 75 LPA",
+      "company": {
+        "name": "Microsoft",
+        "description": "Microsoft is a global leader in technology, empowering individuals and organizations worldwide to achieve more through innovative software, cloud, and AI solutions.",
+        "contactEmail": "careers@microsoft.com",
+        "contactPhone": "+91 98765 12345"
+      }
+    },
+    {
+      "id": "1",
+      "title": "Software Engineer",
+      "type": "Full-Time",
+      "description": "Join Google as a Software Engineer and work on scalable, high-performance systems that impact billions of users worldwide. You will be part of a collaborative team building next-gen products using advanced algorithms, AI, and cloud technologies. We value innovation, clean code, and a passion for solving complex technical challenges.",
+      "location": "Bangalore, India",
+      "salary": "35 LPA - 55 LPA",
+      "company": {
+        "name": "Google",
+        "description": "Google is a global leader in search, cloud, and AI-driven technologies, building products that shape the future of information and connectivity.",
+        "contactEmail": "careers@google.com",
+        "contactPhone": "+91 98765 11111"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Backend Engineer",
+      "type": "Full-Time",
+      "description": "At Amazon, as a Backend Engineer, you will design distributed systems that power some of the largest e-commerce platforms globally. You will collaborate with cross-functional teams to develop highly available and fault-tolerant backend services, ensuring world-class shopping experiences.",
+      "location": "Hyderabad, India",
+      "salary": "30 LPA - 48 LPA",
+      "company": {
+        "name": "Amazon",
+        "description": "Amazon is a global e-commerce, cloud computing, and AI company focused on customer-centric innovation and scalable technology platforms.",
+        "contactEmail": "jobs@amazon.com",
+        "contactPhone": "+91 98765 22222"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Data Scientist",
+      "type": "Full-Time",
+      "description": "Work with Meta's AI research team as a Data Scientist, developing cutting-edge machine learning models that drive product recommendations, content ranking, and user personalization for billions of users. This role combines large-scale data processing with innovative model development.",
+      "location": "London, UK",
+      "salary": "80 LPA - 120 LPA",
+      "company": {
+        "name": "Meta (Facebook)",
+        "description": "Meta builds technologies that help people connect, find communities, and grow businesses, with a strong focus on AI and immersive experiences.",
+        "contactEmail": "careers@meta.com",
+        "contactPhone": "+44 1234 567890"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Frontend Engineer",
+      "type": "Full-Time",
+      "description": "Join Netflix's engineering team to develop intuitive, high-performance frontend applications that enhance user experiences on web, mobile, and smart TV platforms. You will work with modern frameworks like React, TypeScript, and GraphQL to build scalable UIs for millions.",
+      "location": "California, USA",
+      "salary": "130K USD - 180K USD",
+      "company": {
+        "name": "Netflix",
+        "description": "Netflix is the world's leading entertainment streaming platform, delivering award-winning content to audiences globally.",
+        "contactEmail": "jobs@netflix.com",
+        "contactPhone": "+1 650 555 1212"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Software Engineer - iOS",
+      "type": "Full-Time",
+      "description": "Apple is hiring an iOS Software Engineer to craft seamless mobile experiences for millions of users worldwide. You will collaborate with world-class designers and engineers to build polished, performant, and accessible apps integrated deeply into the Apple ecosystem.",
+      "location": "California, USA",
+      "salary": "140K USD - 190K USD",
+      "company": {
+        "name": "Apple",
+        "description": "Apple designs industry-leading hardware, software, and services, creating products that enrich people's lives through innovation.",
+        "contactEmail": "careers@apple.com",
+        "contactPhone": "+1 408 555 6789"
+      }
+    },
+    {
+      "id": "6",
+      "title": "AI Research Engineer",
+      "type": "Full-Time",
+      "description": "As an AI Research Engineer at OpenAI, you will contribute to developing next-generation artificial intelligence models. You will work on large-scale machine learning, reinforcement learning, and generative AI projects, pushing the boundaries of what's possible with intelligent systems.",
+      "location": "San Francisco, USA",
+      "salary": "180K USD - 250K USD",
+      "company": {
+        "name": "OpenAI",
+        "description": "OpenAI is a research company committed to ensuring artificial general intelligence benefits all of humanity through safe and broadly distributed AI advancements.",
+        "contactEmail": "careers@openai.com",
+        "contactPhone": "+1 415 555 8888"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Full Stack Engineer",
+      "type": "Full-Time",
+      "description": "Be part of India's fastest-growing startup, Zomato, as a Full Stack Engineer. You will build scalable, user-friendly web applications that power food delivery, restaurant discovery, and dining experiences for millions of users across the globe.",
+      "location": "Gurgaon, India",
+      "salary": "15 LPA - 28 LPA",
+      "company": {
+        "name": "Zomato",
+        "description": "Zomato is a leading food-tech platform providing restaurant discovery, online ordering, and delivery services in multiple countries.",
+        "contactEmail": "careers@zomato.com",
+        "contactPhone": "+91 98765 33333"
+      }
+    },
+    {
+      "id": "9",
+      "title": "iOS Engineer",
+      "type": "Full-Time",
+      "description": "Join Uber's Mobile Engineering team as an iOS Engineer to design, develop, and maintain world-class mobile applications that power millions of rides and deliveries globally. You will work with Swift, modern design patterns, and scalable architectures in a fast-paced, collaborative environment.",
+      "location": "Bangalore, India",
+      "salary": "30 LPA - 45 LPA",
+      "company": {
+        "name": "Uber",
+        "description": "Uber is transforming the way the world moves by providing seamless ride-sharing, food delivery, and freight services. We are driven by technology, innovation, and a mission to reimagine transportation.",
+        "contactEmail": "jobs@uber.com",
+        "contactPhone": "+91 99876 54321"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Cloud Solutions Architect",
+      "type": "Full-Time",
+      "description": "Amazon Web Services (AWS) is seeking an experienced Cloud Solutions Architect to help enterprise customers design, build, and deploy scalable cloud solutions. You will provide technical leadership, guide architectural decisions, and work closely with engineering teams to enable digital transformation.",
+      "location": "Mumbai, India",
+      "salary": "65 LPA - 95 LPA",
+      "company": {
+        "name": "Amazon Web Services (AWS)",
+        "description": "AWS is the world’s most comprehensive and widely adopted cloud platform, offering over 200 fully featured services from data centers globally. We help businesses scale and innovate faster.",
+        "contactEmail": "careers@aws.amazon.com",
+        "contactPhone": "+91 77123 45678"
+      }
+    },
+    {
+      "id": "11",
+      "title": "Backend Software Engineer",
+      "type": "Full-Time",
+      "description": "Join Swiggy's Engineering team as a Backend Software Engineer to build scalable, high-performance systems that power food delivery for millions of users daily. You'll work with Java, Node.js, and cloud technologies to solve complex backend challenges.",
+      "location": "Bangalore, India",
+      "salary": "20 LPA - 35 LPA",
+      "company": {
+        "name": "Swiggy",
+        "description": "Swiggy is India's leading on-demand delivery platform, revolutionizing how people order food, groceries, and essentials. We leverage technology to deliver convenience and customer satisfaction.",
+        "contactEmail": "careers@swiggy.in",
+        "contactPhone": "+91 99887 77665"
+      }
+    },
+    {
+      "id": "12",
+      "title": "AI Research Scientist",
+      "type": "Full-Time",
+      "description": "OpenAI is hiring an AI Research Scientist to advance the frontiers of artificial intelligence. You will work on cutting-edge research in machine learning, reinforcement learning, and generative models to develop AI systems that benefit humanity.",
+      "location": "San Francisco, USA",
+      "salary": "150 LPA - 250 LPA",
+      "company": {
+        "name": "OpenAI",
+        "description": "OpenAI is a research and deployment company dedicated to ensuring that artificial general intelligence benefits all of humanity. We focus on safe, scalable AI innovation.",
+        "contactEmail": "careers@openai.com",
+        "contactPhone": "+1 415 555 1212"
+      }
+    },
+    {
+      "id": "13",
+      "title": "UX Designer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented UX Designer to join Zomato's Product team. You will craft intuitive, user-centric experiences that delight millions of users ordering food online. Strong design thinking, prototyping, and user research skills are required.",
+      "location": "Gurgaon, India",
+      "salary": "15 LPA - 25 LPA",
+      "company": {
+        "name": "Zomato",
+        "description": "Zomato is a global food delivery and restaurant discovery platform, connecting people to the best dining experiences with convenience and technology.",
+        "contactEmail": "jobs@zomato.com",
+        "contactPhone": "+91 88221 33445"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Security Engineer",
+      "type": "Full-Time",
+      "description": "We are hiring a Security Engineer to join Palo Alto Networks' world-class security team. You will be responsible for securing cloud infrastructure, conducting threat assessments, and implementing best practices to protect critical systems and data.",
+      "location": "Bangalore, India",
+      "salary": "40 LPA - 60 LPA",
+      "company": {
+        "name": "Palo Alto Networks",
+        "description": "Palo Alto Networks is the global cybersecurity leader, delivering cutting-edge security solutions to protect organizations from evolving threats across networks, cloud, and endpoints.",
+        "contactEmail": "careers@paloaltonetworks.com",
+        "contactPhone": "+91 99887 99887"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Full Stack Developer",
+      "type": "Full-Time",
+      "description": "CRED is looking for a Full Stack Developer with expertise in building modern web applications using React, Node.js, and cloud technologies. You will work on highly scalable platforms serving millions of financially responsible users.",
+      "location": "Bangalore, India",
+      "salary": "25 LPA - 40 LPA",
+      "company": {
+        "name": "CRED",
+        "description": "CRED is a members-only platform that rewards individuals for their financial responsibility. We simplify credit card payments while offering premium experiences and rewards.",
+        "contactEmail": "careers@cred.club",
+        "contactPhone": "+91 99877 11223"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Site Reliability Engineer (SRE)",
+      "type": "Full-Time",
+      "description": "We are seeking a Site Reliability Engineer at Netflix to build and operate reliable, scalable, and secure infrastructure that powers world-class streaming services. You will work on automation, monitoring, and performance optimization at scale.",
+      "location": "Los Gatos, USA",
+      "salary": "180 LPA - 250 LPA",
+      "company": {
+        "name": "Netflix",
+        "description": "Netflix is the world's leading entertainment streaming service, delivering award-winning TV shows, movies, and documentaries to over 230 million members in 190 countries.",
+        "contactEmail": "careers@netflix.com",
+        "contactPhone": "+1 408 555 9090"
+      }
+    },
+    {
+      "id": "17",
+      "title": "Android Developer",
+      "type": "Full-Time",
+      "description": "PhonePe is hiring an Android Developer to build seamless mobile experiences for millions of users. You will work with Kotlin, Jetpack Compose, and scalable architectures in a highly collaborative environment.",
+      "location": "Bangalore, India",
+      "salary": "18 LPA - 28 LPA",
+      "company": {
+        "name": "PhonePe",
+        "description": "PhonePe is India's leading digital payments platform, offering secure and convenient financial services to millions of users and merchants nationwide.",
+        "contactEmail": "jobs@phonepe.com",
+        "contactPhone": "+91 99887 44556"
+      }
+    },
+    {
+      "id": "19",
+      "title": "Senior Software Engineer - Frontend",
+      "type": "Full-Time",
+      "description": "Join Flipkart's Frontend Engineering team to design and develop responsive, high-performance web applications for India's leading e-commerce platform. You'll work with React, TypeScript, and modern web technologies.",
+      "location": "Bangalore, India",
+      "salary": "28 LPA - 42 LPA",
+      "company": {
+        "name": "Flipkart",
+        "description": "Flipkart is India's largest e-commerce marketplace, offering millions of products across diverse categories, with a commitment to innovation, customer satisfaction, and technology excellence.",
+        "contactEmail": "careers@flipkart.com",
+        "contactPhone": "+91 88221 33445"
+      }
+    },
+    {
+      "id": "20",
+      "title": "Machine Learning Engineer",
+      "type": "Full-Time",
+      "description": "We are hiring a Machine Learning Engineer at Adobe to build and deploy AI models that power creative tools for millions of users worldwide. You will work on computer vision, generative AI, and recommendation systems.",
+      "location": "Bangalore, India",
+      "salary": "30 LPA - 50 LPA",
+      "company": {
+        "name": "Adobe",
+        "description": "Adobe is a global software company known for its creative tools and digital experiences. We empower creators, designers, and businesses to bring their ideas to life with cutting-edge technology.",
+        "contactEmail": "jobs@adobe.com",
+        "contactPhone": "+91 99887 77665"
+      }
+    },
+    {
+      "id": "21",
+      "title": "Software Engineer",
+      "type": "Full-Time",
+      "description": "We are looking for a highly motivated Software Engineer to join our dynamic team in Bangalore, India. The ideal candidate should have experience in Python, Java, or C++, and a strong foundation in data structures and algorithms. You will work on scalable software systems that power millions of users globally. Our team values innovation, clean code, and collaborative problem-solving.",
+      "location": "Bangalore, India",
+      "salary": "12 LPA - 18 LPA",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a global leader in software development and digital transformation. We provide cutting-edge solutions to clients across industries, empowering them to achieve business success through technology.",
+        "contactEmail": "contact@teksolutions.com",
+        "contactPhone": "+91 98765 43210"
+      }
+    },
+    {
+      "id": "22",
+      "title": "Digital Marketing Manager",
+      "type": "Full-Time",
+      "description": "Join our global marketing team as a Digital Marketing Manager based in London, UK. We are seeking a creative and strategic thinker to lead our online marketing initiatives, including SEO, SEM, content marketing, and social media. The ideal candidate will have a deep understanding of marketing analytics, excellent communication skills, and a proven track record of driving online growth.",
+      "location": "London, UK",
+      "salary": "35 LPA - 45 LPA",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative powerhouse specializing in digital marketing, branding, and design. Our global team works with leading brands to craft impactful marketing campaigns that drive results.",
+        "contactEmail": "contact@veneersolutions.com",
+        "contactPhone": "+44 1234 567890"
+      }
+    },
+    {
+      "id": "23",
+      "title": "Graphic Designer",
+      "type": "Part-Time",
+      "description": "We are seeking a talented and imaginative Graphic Designer to join our design studio in Mumbai, India. You will be responsible for creating visual assets for branding, websites, social media, and marketing campaigns. Proficiency in Adobe Creative Suite is essential. This role offers the flexibility of part-time hours, making it ideal for freelance designers or students.",
+      "location": "Mumbai, India",
+      "salary": "4 LPA - 6 LPA (Pro-rated)",
+      "company": {
+        "name": "Dolor Creative Studio",
+        "description": "Dolor Creative Studio is an award-winning design agency focused on delivering exceptional visual experiences. We collaborate with global brands to bring their ideas to life through innovative design.",
+        "contactEmail": "contact@dolorstudio.com",
+        "contactPhone": "+91 99887 77665"
+      }
+    },
+    {
+      "id": "24",
+      "title": "Customer Support Executive",
+      "type": "Full-Time",
+      "description": "We are looking for a dedicated Customer Support Executive to join our team in Hyderabad, India. In this role, you will be the first point of contact for our customers, providing timely and effective support through phone, email, and chat. Excellent communication skills and a customer-first mindset are essential. Prior experience in customer support is a plus but not mandatory.",
+      "location": "Hyderabad, India",
+      "salary": "3.5 LPA - 5 LPA",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a customer-focused company providing support and service solutions to global clients. We believe that exceptional customer experiences drive long-term success, and we empower our team to deliver exactly that.",
+        "contactEmail": "support@alphaelite.com",
+        "contactPhone": "+91 98765 00011"
+      }
+    },
+    {
+      "id": "25",
+      "title": "Project Manager",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for an experienced Project Manager in Berlin, Germany. We are seeking a detail-oriented professional to lead complex software development projects from conception to delivery. You will collaborate with cross-functional teams, manage project timelines, and ensure client satisfaction. Strong organizational skills, stakeholder management, and agile methodology experience are key requirements.",
+      "location": "Berlin, Germany",
+      "salary": "40 LPA - 55 LPA",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a leading IT consultancy delivering high-impact technology solutions across Europe and beyond. Our collaborative culture and commitment to excellence have made us a trusted partner to top organizations worldwide.",
+        "contactEmail": "careers@browningtech.com",
+        "contactPhone": "+49 1520 1234567"
+      }
+    },
+    {
+      "id": "26",
+      "title": "Data Analyst",
+      "type": "Full-Time",
+      "description": "We are hiring a skilled Data Analyst to join our analytics team in Pune, India. You will be responsible for collecting, cleaning, and analyzing large data sets to generate actionable business insights. Proficiency in SQL, Python, and visualization tools like Tableau or Power BI is required. This is a fantastic opportunity to work with cutting-edge data technologies and contribute to data-driven decision-making.",
+      "location": "Pune, India",
+      "salary": "7 LPA - 11 LPA",
+      "company": {
+        "name": "Port Solutions",
+        "description": "Port Solutions is a global technology firm specializing in data analytics, business intelligence, and software development. We empower organizations to harness the power of data to drive growth and innovation.",
+        "contactEmail": "careers@portsolutions.com",
+        "contactPhone": "+91 77008 65432"
+      }
+    },
+    {
+      "id": "27",
+      "title": "Content Writer",
+      "type": "Part-Time",
+      "description": "Join our content team as a freelance Content Writer based anywhere in the world. We are looking for creative individuals with excellent writing skills to produce engaging blog posts, articles, website content, and social media copy. A background in SEO and content marketing is a plus, but a strong command of English and storytelling ability is a must.",
+      "location": "Remote - Worldwide",
+      "salary": "3 LPA - 6 LPA (Pro-rated)",
+      "company": {
+        "name": "GlobalWords Media",
+        "description": "GlobalWords Media is a content creation agency serving clients across industries and geographies. Our global network of talented writers and editors produces high-quality content that informs, engages, and inspires.",
+        "contactEmail": "jobs@globalwords.com",
+        "contactPhone": "+1 800 555 0199"
+      }
+    },
+    {
+      "id": "28",
+      "title": "DevOps Engineer",
+      "type": "Full-Time",
+      "description": "We are seeking an experienced DevOps Engineer to join our global infrastructure team based in Toronto, Canada. You will be responsible for building and maintaining scalable cloud infrastructure, implementing CI/CD pipelines, and ensuring system reliability. Experience with AWS, Docker, Kubernetes, and monitoring tools is essential.",
+      "location": "Toronto, Canada",
+      "salary": "50 LPA - 65 LPA",
+      "company": {
+        "name": "Skyline Tech",
+        "description": "Skyline Tech is a global software company providing cloud-based solutions to enterprises worldwide. Our DevOps team ensures our systems remain reliable, secure, and scalable to meet growing customer demands.",
+        "contactEmail": "hiring@skylinetech.com",
+        "contactPhone": "+1 416 555 1010"
+      }
+    },
+    {
+      "id": "29",
+      "title": "Software Engineering",
+      "type": "Internship",
+      "description": "We are offering an exciting Software Engineering Internship for students or fresh graduates passionate about coding and software development. The internship provides hands-on experience working with real-world projects under the guidance of experienced mentors.",
+      "location": "Chennai, India",
+      "salary": "15K - 20K per month",
+      "company": {
+        "name": "NextGen Technologies",
+        "description": "NextGen Technologies is an innovative IT solutions provider focusing on software development, AI, and cloud computing. We are committed to nurturing young talent through structured internship programs.",
+        "contactEmail": "interns@nextgentech.com",
+        "contactPhone": "+91 98765 11223"
+      }
+    },
+    {
+      "id": "30",
+      "title": "Remote Product Designer",
+      "type": "Full-Time",
+      "description": "We are seeking a highly creative Product Designer to work remotely with our global product team. You will be responsible for crafting intuitive and visually appealing user interfaces for web and mobile applications. Proficiency with Figma, design systems, and prototyping tools is required.",
+      "location": "Remote - Worldwide",
+      "salary": "25 LPA - 35 LPA",
+      "company": {
+        "name": "DesignCore Inc.",
+        "description": "DesignCore Inc. is a global product design studio helping startups and enterprises create user-centered digital experiences that drive growth and engagement.",
+        "contactEmail": "careers@designcore.com",
+        "contactPhone": "+1 305 555 7890"
+      }
+    },
+    {
+      "id": "31",
+      "title": "HR Intern",
+      "type": "Internship",
+      "description": "We are looking for a motivated HR Intern to support our People Operations team. You will assist with recruitment processes, employee engagement activities, and administrative tasks. This is a great opportunity for students pursuing HR, Business Administration, or related fields.",
+      "location": "Gurgaon, India",
+      "salary": "10K - 15K per month",
+      "company": {
+        "name": "HumanLink",
+        "description": "HumanLink is a leading HR consultancy and recruitment firm connecting top talent with global organizations. We foster a supportive learning environment for interns to develop core HR skills.",
+        "contactEmail": "internship@humanlink.com",
+        "contactPhone": "+91 88221 33445"
+      }
+    },
+    {
+      "id": "32",
+      "title": "Software Development Engineer (SDE) - Backend",
+      "type": "Full-Time",
+      "description": "We are looking for an experienced Backend SDE to design and build scalable server-side systems. You will work on microservices, APIs, and cloud infrastructure, collaborating with cross-functional teams to deliver reliable and efficient solutions.",
+      "location": "Bangalore, India",
+      "salary": "18 LPA - 28 LPA",
+      "company": {
+        "name": "InnoTech Solutions",
+        "description": "InnoTech is a product-based company building scalable SaaS platforms for global markets.",
+        "contactEmail": "careers@innotech.com",
+        "contactPhone": "+91 98765 45678"
+      }
+    },
+    {
+      "id": "33",
+      "title": "Software Engineer - Frontend",
+      "type": "Full-Time",
+      "description": "Join our frontend engineering team in Berlin, Germany, and help build responsive, accessible, and high-performance web applications using React, TypeScript, and modern UI frameworks.",
+      "location": "Berlin, Germany",
+      "salary": "35 LPA - 50 LPA",
+      "company": {
+        "name": "TechWave GmbH",
+        "description": "TechWave is a European software company focused on intuitive, reliable enterprise software solutions.",
+        "contactEmail": "jobs@techwave.de",
+        "contactPhone": "+49 176 6543210"
+      }
+    },
+    {
+      "id": "34",
+      "title": "Machine Learning Engineer",
+      "type": "Full-Time",
+      "description": "As a Machine Learning Engineer in Hyderabad, India, you'll develop and deploy ML models for real-world applications. Experience with Python, TensorFlow/PyTorch, and data pipelines is essential.",
+      "location": "Hyderabad, India",
+      "salary": "22 LPA - 35 LPA",
+      "company": {
+        "name": "AIWorks Labs",
+        "description": "AIWorks Labs develops cutting-edge AI solutions for healthcare, finance, and logistics industries.",
+        "contactEmail": "careers@aiworkslabs.com",
+        "contactPhone": "+91 99887 11223"
+      }
+    },
+    {
+      "id": "35",
+      "title": "Full Stack Engineer",
+      "type": "Full-Time",
+      "description": "We are hiring a Full Stack Engineer to work on scalable web applications using React, Node.js, and PostgreSQL. Join our global product team and contribute to meaningful software used by thousands worldwide.",
+      "location": "Remote - Worldwide",
+      "salary": "30 LPA - 45 LPA",
+      "company": {
+        "name": "BrightPixel Global",
+        "description": "BrightPixel Global is a distributed team building modern, reliable, and scalable software products.",
+        "contactEmail": "jobs@brightpixel.io",
+        "contactPhone": "+1 415 555 0123"
+      }
+    },
+    {
+      "id": "36",
+      "title": "Mobile App Developer (Flutter)",
+      "type": "Full-Time",
+      "description": "Join our mobile team as a Flutter Developer in Pune, India. You'll build cross-platform mobile applications, working closely with designers and product managers to create user-friendly experiences.",
+      "location": "Pune, India",
+      "salary": "10 LPA - 16 LPA",
+      "company": {
+        "name": "Appify Innovations",
+        "description": "Appify Innovations specializes in crafting high-quality mobile and web applications for startups and enterprises.",
+        "contactEmail": "careers@appify.in",
+        "contactPhone": "+91 77100 33445"
+      }
+    },
+    {
+      "id": "37",
+      "title": "SWE - Security Engineer",
+      "type": "Full-Time",
+      "description": "We are looking for a Software Engineer with a passion for security to help design and build secure systems. Responsibilities include implementing security best practices, conducting code reviews, and collaborating with development teams to ensure secure software delivery.",
+      "location": "Toronto, Canada",
+      "salary": "50 LPA - 70 LPA",
+      "company": {
+        "name": "SkyFort Technologies",
+        "description": "SkyFort builds enterprise security products to protect businesses from evolving cyber threats.",
+        "contactEmail": "jobs@skyfort.com",
+        "contactPhone": "+1 416 555 9876"
+      }
+    },
+    {
+      "id": "38",
+      "title": "AI Research Intern",
+      "type": "Internship",
+      "description": "Exciting opportunity for AI enthusiasts! As a Research Intern, you will work on machine learning prototypes, experiment with models, and contribute to AI research projects. This is a paid internship, ideal for students or recent graduates.",
+      "location": "Bangalore, India",
+      "salary": "₹30K - ₹50K Monthly",
+      "company": {
+        "name": "VisionAI Research",
+        "description": "VisionAI is an AI research lab focused on computer vision, NLP, and generative AI technologies.",
+        "contactEmail": "internships@visionai.in",
+        "contactPhone": "+91 99444 22133"
+      }
+    },
+    {
+      "id": "39",
+      "title": "DevOps Engineer",
+      "type": "Remote",
+      "description": "We are hiring a Remote DevOps Engineer to help automate, monitor, and scale our global cloud infrastructure. Experience with AWS, Terraform, and CI/CD pipelines is highly desirable.",
+      "location": "Remote - Worldwide",
+      "salary": "40 LPA - 60 LPA",
+      "company": {
+        "name": "CloudScale Systems",
+        "description": "CloudScale provides cloud infrastructure solutions and DevOps services to fast-growing technology companies.",
+        "contactEmail": "careers@cloudscale.io",
+        "contactPhone": "+1 650 555 7788"
+      }
+    },
+    {
+      "id": "40",
+      "title": "Data Engineer",
+      "type": "Full-Time",
+      "description": "We are looking for a Data Engineer to build scalable data pipelines and infrastructure. You will work with large datasets and modern data tools like Spark, Airflow, and Snowflake to enable reliable data processing and analytics.",
+      "location": "Mumbai, India",
+      "salary": "15 LPA - 25 LPA",
+      "company": {
+        "name": "DataCraft Solutions",
+        "description": "DataCraft provides advanced data engineering and analytics solutions for enterprises across India and APAC.",
+        "contactEmail": "jobs@datacraft.in",
+        "contactPhone": "+91 90909 11122"
+      }
+    },
+    {
+      "id": "41",
+      "title": "Product Manager - SaaS",
+      "type": "Full-Time",
+      "location": "Singapore",
+      "description": "Join our SaaS product team as a Product Manager based in Singapore. You will lead product strategy, gather requirements, and work with engineering and design teams to deliver exceptional software products.",
+      "salary": "60 LPA - 80 LPA",
+      "company": {
+        "name": "ScaleHub Technologies",
+        "description": "ScaleHub builds scalable, secure SaaS platforms for global businesses across industries.",
+        "contactEmail": "career@scalehub.sg",
+        "contactPhone": "+65 8123 4567"
+      }
+    }
+  ]
+}
